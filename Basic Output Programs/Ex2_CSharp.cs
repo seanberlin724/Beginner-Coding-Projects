@@ -1,19 +1,19 @@
 /******************Block Comment***********************
- * Sean Berlin        Per.9                  9-12-18
+ * Sean Berlin
  * This is a program that shows the basics of
  * the c# program
  * *****************************
  *) Write a console application that displays the name of the programming language you are writing in.  One possible design is given here. Don’t forget your comments.
 
-			CCCCCCCCC                        #       #
-			C				#############
+			CCCCCCCCC                                 #       #
+			C				       #############
 			C				         #       #
 			C				        #       #
-			C			        ############
+			C			              ############
 			C				      #      #
 			CCCCCCCCC
 
-    */
+ */
 
 using System;
 using System.Collections.Generic;
