@@ -1,8 +1,5 @@
 /******************Block Comment***********************
 * Sean Berlin
-* This is a program that shows the basics of
-* the c# program
-* 
 * Create an application that produces the following output.  It should be displayed on three lines, 
 * exactly as it appears here:
 Just Play
