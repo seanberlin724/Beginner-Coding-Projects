@@ -1,5 +1,5 @@
 /******************Block Comment***********************
-* Sean Berlin             Per.9             9-12-18
+* Sean Berlin
 * This is a program that shows the basics of
 * the c# program
 * 
@@ -9,7 +9,7 @@ Just Play
 Have Fun
 Enjoy the Game
 * You may only use ONE Console.WriteLine() statement.
-*  * *****************************
+* *****************************
 */
 
 using System;
