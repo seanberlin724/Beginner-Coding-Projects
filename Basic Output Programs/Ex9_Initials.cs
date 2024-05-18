@@ -1,10 +1,7 @@
 /******************Block Comment***********************
 * Sean Berlin
-* This is a program that shows the basics of
-* the c# program
-* 
 * Write your initials in block characters to the console.  Be creative.  
-* You may look up the unicode for more interesting characters 
+* You may look up the Unicode for more interesting characters 
 * than just the ones on your keyboard.
 * *****************************
 */
