@@ -1,8 +1,5 @@
 /******************Block Comment***********************
-* Sean Berlin              Per.9            9-12-18
-* This is a program that shows the basics of
-* the c# program
-* 
+* Sean Berlin
 * Print your birth year in one column using one Console.
 * WriteLine statement.
 * *****************************
