@@ -1,7 +1,5 @@
 /******************Block Comment***********************
  * Sean Berlin
- * This is a program that shows the basics of
- * the c# program
  * Hangman is a favorite childhood game.
  * Design the stick figure for this game and produce your stickman in the console. 
  * One possible design.
