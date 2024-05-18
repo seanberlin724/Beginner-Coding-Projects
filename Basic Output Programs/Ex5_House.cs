@@ -1,6 +1,5 @@
 /******************Block Comment***********************
- * Sean Berlin              Prd.9           9-12-18
- *
+ * Sean Berlin
  * Make a well-designed picture of a house.  
  * Your house could include but is not limited to windows, a door, and a roof. 
  *  Your house should have a minimum of three colors. 
