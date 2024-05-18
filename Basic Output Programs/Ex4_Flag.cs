@@ -1,9 +1,9 @@
  /******************Block Comment***********************
-  * Sean Berlin              Per.1            9-21-18
+  * Sean Berlin              Per.9            9-21-18
   * Flags are a symbol of unity and invoke special meaning to their followers.  
   * Create a design for a flag, and write a program that displays your design.  
   *  We did the American flag so try something else.  
-  *  Search Flags images in google and pick one or two.
+  *  Search Flags images in Google and pick one or two.
   * ***************************** 
   */
 
