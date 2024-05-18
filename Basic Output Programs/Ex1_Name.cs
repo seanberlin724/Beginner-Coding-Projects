@@ -1,5 +1,5 @@
 /******************Block Comment***********************
- * Sean Berlin          Per.9                9-12-18
+ * Sean Berlin
  * This is a program that shows the basics of
  * the c# program
  * *****************************/
