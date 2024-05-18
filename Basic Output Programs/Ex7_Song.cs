@@ -1,13 +1,11 @@
 /******************Block Comment***********************
 * Sean Berlin
-* This is a program that shows the basics of
-* the c# program
-* 
 *  Produce a listing containing your favorite saying or part of a song. 
 *  Double-space the output and print the saying one word per line. 
 *  You may only use one Console.WriteLine().
 * *****************************
 */
+
 using System;
 using System.Collections.Generic;
 using System.Linq;
