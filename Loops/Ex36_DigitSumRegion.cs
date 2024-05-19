@@ -3,7 +3,7 @@
  * Create a Console Application called Ex36_DigitCubeSumRegion.
  *  Modify looping Ex35_DigitCubeSum 
  *  to determine what integers of two, three, or four digits are equal to the sum of the cubes of their digits. 
- *  Hint: Creating a method will make this process much easier.  
+ *  Hint: Creating a method will make this process much easier. 
  *  Note: Only a few numbers have these conditions. This program requires no input.
  *  When it is executed it should print only show a small list of numbers.
  * *****************************/
@@ -14,59 +14,37 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Ex35_DigitCubeSum
+namespace Ex36_DigitCubeSumRegion_Try2
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Intro("Digit Cube Sum Region", "This program will find what integers of \ntwo,three,or four digits are equal to the sum \nof the cubes of their digits", ConsoleColor.Green, 72);
-            int sumOfCubesDigitsFinder = sumOfCubesOfDigitsFinder();
-            for ( i = 10; i < 1000; i++)
+            for (long num = 10; num < 9999; num++)
             {
-                if (i == i )
+                if (num ==sumOfCubesOfDigits(num))
                 {
-                    Console.WriteLine(+i);
-                }                
-            }
-            ending();
+                    Console.WriteLine(num);                  
+                }
+            }Console.ReadLine();
         }
-        public static int sumOfCubesOfDigitsFinder()
+        public static long sumOfCubesOfDigits(long num)
         {
-            int num  9999;
-            int sum = 0;
-            int max = 100000;
+            long sum = 0;
+            long max = 1000000000000000000;
             while (max > num)
             {
                 max = max / 10;
             }
             while (max > 0)
             {
-                int digitt = num / max;
+                long digitt = num / max;
                 //cube = digitt * digitt * digitt;
                 sum = sum + (digitt * digitt * digitt);
                 num = num % max; //152
                 max = max / 10;
             }
             return sum;
-        }
-        public static void Intro(string title, string discription, ConsoleColor myColor, int myWidth)
-        {
-            Console.Title = title;
-            Console.BackgroundColor = myColor;
-            Console.ForegroundColor = ConsoleColor.Black;
-            Console.WindowWidth = myWidth;
-            Console.WindowHeight = 15;
-            Console.Clear();
-            Console.WriteLine("This is the Greatest Into ever!!");
-            Console.WriteLine(discription);
-        }
-        public static void ending()
-        {
-            Console.SetCursorPosition(15, 10);
-            Console.ForegroundColor = ConsoleColor.Green;
-            Console.WriteLine("<---- Hit Enter to Quit! ---->");
-            Console.ReadLine();
         }
     }
 }
