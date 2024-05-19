@@ -16,8 +16,7 @@ The sum of the digits of 8888 is 32.
 Would you like to try another? N
 Thank you for using this program.
 Have a nice day.
- * 
- * *****************************/
+* *****************************/
 
 using System;
 using System.Collections.Generic;
@@ -31,11 +30,15 @@ namespace Ex34_DigitSum
     {
         static void Main(string[] args)
         {
-            Intro("Digits Program", "This program wil  display the sum of take any positive integer and display its digits", ConsoleColor.Green, 72);
-            Console.Write("Input any positive integer:");
-            string tester = "yes";
+            Intro("Digits Program", "This program wil  display the sum of any positive integer's digits", ConsoleColor.Green, 72);
+            //Console.Write("Input any positive integer:");
+            //long num = Convert.ToInt64(Console.ReadLine());
+            //// long sum = 0;
+            //long max = 1000000000000000000;
+            string tester = "no";
             do
             {
+                Console.Write("Input any positive integer:");
                 long num = Convert.ToInt64(Console.ReadLine());
                 long sum = 0;
                 long max = 1000000000000000000;
@@ -47,16 +50,16 @@ namespace Ex34_DigitSum
                 {
                     long digitt = num / max;
                     sum = sum + digitt;
-                    Console.WriteLine(+digitt);
                     num = num % max; //152
                     max = max / 10;
-                    Console.WriteLine("The sum is" + sum);
-                    Console.WriteLine("Would you like to try another. yes or no");
-                    tester = Console.ReadLine();
                 }
+                Console.WriteLine("The sum is " + sum);
+                Console.WriteLine("Would you like to try another? Yes or no");
+                tester = Console.ReadLine();
             } while (tester.ToLower() == "yes");
+            Console.WriteLine("Have a nice day");
             ending();
-        }      
+        }
         public static void Intro(string title, string discription, ConsoleColor myColor, int myWidth)
         {
             Console.Title = title;
@@ -71,9 +74,11 @@ namespace Ex34_DigitSum
         public static void ending()
         {
             Console.SetCursorPosition(15, 10);
-            Console.ForegroundColor = ConsoleColor.Green;
+            Console.ForegroundColor = ConsoleColor.Black;
             Console.WriteLine("<---- Hit Enter to Quit! ---->");
             Console.ReadLine();
         }
     }
 }
+
+
