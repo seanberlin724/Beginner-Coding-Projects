@@ -1,0 +1,9 @@
+H:\CS1\Ex46_LunchMenu\Ex46_LunchMenu\Ex46_LunchMenu\bin\Debug\Ex46_LunchMenu.exe.config
+H:\CS1\Ex46_LunchMenu\Ex46_LunchMenu\Ex46_LunchMenu\bin\Debug\Ex46_LunchMenu.exe
+H:\CS1\Ex46_LunchMenu\Ex46_LunchMenu\Ex46_LunchMenu\bin\Debug\Ex46_LunchMenu.pdb
+H:\CS1\Ex46_LunchMenu\Ex46_LunchMenu\Ex46_LunchMenu\obj\Debug\Ex46_LunchMenu.csprojResolveAssemblyReference.cache
+H:\CS1\Ex46_LunchMenu\Ex46_LunchMenu\Ex46_LunchMenu\obj\Debug\Ex46_LunchMenu.Form1.resources
+H:\CS1\Ex46_LunchMenu\Ex46_LunchMenu\Ex46_LunchMenu\obj\Debug\Ex46_LunchMenu.Properties.Resources.resources
+H:\CS1\Ex46_LunchMenu\Ex46_LunchMenu\Ex46_LunchMenu\obj\Debug\Ex46_LunchMenu.csproj.GenerateResource.Cache
+H:\CS1\Ex46_LunchMenu\Ex46_LunchMenu\Ex46_LunchMenu\obj\Debug\Ex46_LunchMenu.exe
+H:\CS1\Ex46_LunchMenu\Ex46_LunchMenu\Ex46_LunchMenu\obj\Debug\Ex46_LunchMenu.pdb

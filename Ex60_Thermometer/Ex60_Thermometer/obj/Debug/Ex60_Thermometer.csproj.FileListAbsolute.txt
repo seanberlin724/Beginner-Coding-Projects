@@ -1,0 +1,9 @@
+H:\CS1\Ex60_Thermometer\Ex60_Thermometer\Ex60_Thermometer\bin\Debug\Ex60_Thermometer.exe.config
+H:\CS1\Ex60_Thermometer\Ex60_Thermometer\Ex60_Thermometer\bin\Debug\Ex60_Thermometer.exe
+H:\CS1\Ex60_Thermometer\Ex60_Thermometer\Ex60_Thermometer\bin\Debug\Ex60_Thermometer.pdb
+H:\CS1\Ex60_Thermometer\Ex60_Thermometer\Ex60_Thermometer\obj\Debug\Ex60_Thermometer.csprojResolveAssemblyReference.cache
+H:\CS1\Ex60_Thermometer\Ex60_Thermometer\Ex60_Thermometer\obj\Debug\Ex60_Thermometer.Form1.resources
+H:\CS1\Ex60_Thermometer\Ex60_Thermometer\Ex60_Thermometer\obj\Debug\Ex60_Thermometer.Properties.Resources.resources
+H:\CS1\Ex60_Thermometer\Ex60_Thermometer\Ex60_Thermometer\obj\Debug\Ex60_Thermometer.csproj.GenerateResource.Cache
+H:\CS1\Ex60_Thermometer\Ex60_Thermometer\Ex60_Thermometer\obj\Debug\Ex60_Thermometer.exe
+H:\CS1\Ex60_Thermometer\Ex60_Thermometer\Ex60_Thermometer\obj\Debug\Ex60_Thermometer.pdb

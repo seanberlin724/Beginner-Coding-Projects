@@ -1,0 +1,9 @@
+H:\CS1\Ex57_MessyCalculator\Ex57_MessyCalculator\Ex57_MessyCalculator\bin\Debug\Ex57_MessyCalculator.exe.config
+H:\CS1\Ex57_MessyCalculator\Ex57_MessyCalculator\Ex57_MessyCalculator\bin\Debug\Ex57_MessyCalculator.exe
+H:\CS1\Ex57_MessyCalculator\Ex57_MessyCalculator\Ex57_MessyCalculator\bin\Debug\Ex57_MessyCalculator.pdb
+H:\CS1\Ex57_MessyCalculator\Ex57_MessyCalculator\Ex57_MessyCalculator\obj\Debug\Ex57_MessyCalculator.csprojResolveAssemblyReference.cache
+H:\CS1\Ex57_MessyCalculator\Ex57_MessyCalculator\Ex57_MessyCalculator\obj\Debug\Ex57_MessyCalculator.Form1.resources
+H:\CS1\Ex57_MessyCalculator\Ex57_MessyCalculator\Ex57_MessyCalculator\obj\Debug\Ex57_MessyCalculator.Properties.Resources.resources
+H:\CS1\Ex57_MessyCalculator\Ex57_MessyCalculator\Ex57_MessyCalculator\obj\Debug\Ex57_MessyCalculator.csproj.GenerateResource.Cache
+H:\CS1\Ex57_MessyCalculator\Ex57_MessyCalculator\Ex57_MessyCalculator\obj\Debug\Ex57_MessyCalculator.exe
+H:\CS1\Ex57_MessyCalculator\Ex57_MessyCalculator\Ex57_MessyCalculator\obj\Debug\Ex57_MessyCalculator.pdb

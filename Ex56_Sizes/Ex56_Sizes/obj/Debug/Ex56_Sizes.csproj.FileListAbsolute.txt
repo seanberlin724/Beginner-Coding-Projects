@@ -1,0 +1,9 @@
+H:\CS1\Ex56_Sizes\Ex56_Sizes\Ex56_Sizes\bin\Debug\Ex56_Sizes.exe.config
+H:\CS1\Ex56_Sizes\Ex56_Sizes\Ex56_Sizes\bin\Debug\Ex56_Sizes.exe
+H:\CS1\Ex56_Sizes\Ex56_Sizes\Ex56_Sizes\bin\Debug\Ex56_Sizes.pdb
+H:\CS1\Ex56_Sizes\Ex56_Sizes\Ex56_Sizes\obj\Debug\Ex56_Sizes.csprojResolveAssemblyReference.cache
+H:\CS1\Ex56_Sizes\Ex56_Sizes\Ex56_Sizes\obj\Debug\Ex56_Sizes.Form1.resources
+H:\CS1\Ex56_Sizes\Ex56_Sizes\Ex56_Sizes\obj\Debug\Ex56_Sizes.Properties.Resources.resources
+H:\CS1\Ex56_Sizes\Ex56_Sizes\Ex56_Sizes\obj\Debug\Ex56_Sizes.csproj.GenerateResource.Cache
+H:\CS1\Ex56_Sizes\Ex56_Sizes\Ex56_Sizes\obj\Debug\Ex56_Sizes.exe
+H:\CS1\Ex56_Sizes\Ex56_Sizes\Ex56_Sizes\obj\Debug\Ex56_Sizes.pdb

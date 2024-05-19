@@ -1,0 +1,9 @@
+H:\CS1\Ex47_ChatWindow\Ex47_ChatWindow\Ex47_ChatWindow\bin\Debug\Ex47_ChatWindow.exe.config
+H:\CS1\Ex47_ChatWindow\Ex47_ChatWindow\Ex47_ChatWindow\bin\Debug\Ex47_ChatWindow.exe
+H:\CS1\Ex47_ChatWindow\Ex47_ChatWindow\Ex47_ChatWindow\bin\Debug\Ex47_ChatWindow.pdb
+H:\CS1\Ex47_ChatWindow\Ex47_ChatWindow\Ex47_ChatWindow\obj\Debug\Ex47_ChatWindow.csprojResolveAssemblyReference.cache
+H:\CS1\Ex47_ChatWindow\Ex47_ChatWindow\Ex47_ChatWindow\obj\Debug\Ex47_ChatWindow.Form1.resources
+H:\CS1\Ex47_ChatWindow\Ex47_ChatWindow\Ex47_ChatWindow\obj\Debug\Ex47_ChatWindow.Properties.Resources.resources
+H:\CS1\Ex47_ChatWindow\Ex47_ChatWindow\Ex47_ChatWindow\obj\Debug\Ex47_ChatWindow.csproj.GenerateResource.Cache
+H:\CS1\Ex47_ChatWindow\Ex47_ChatWindow\Ex47_ChatWindow\obj\Debug\Ex47_ChatWindow.exe
+H:\CS1\Ex47_ChatWindow\Ex47_ChatWindow\Ex47_ChatWindow\obj\Debug\Ex47_ChatWindow.pdb

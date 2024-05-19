@@ -1,0 +1,9 @@
+H:\CS1\Ex55__WhatsAnIDE\Ex55__WhatsAnIDE\Ex55__WhatsAnIDE\bin\Debug\Ex55__WhatsAnIDE.exe.config
+H:\CS1\Ex55__WhatsAnIDE\Ex55__WhatsAnIDE\Ex55__WhatsAnIDE\bin\Debug\Ex55__WhatsAnIDE.exe
+H:\CS1\Ex55__WhatsAnIDE\Ex55__WhatsAnIDE\Ex55__WhatsAnIDE\bin\Debug\Ex55__WhatsAnIDE.pdb
+H:\CS1\Ex55__WhatsAnIDE\Ex55__WhatsAnIDE\Ex55__WhatsAnIDE\obj\Debug\Ex55__WhatsAnIDE.csprojResolveAssemblyReference.cache
+H:\CS1\Ex55__WhatsAnIDE\Ex55__WhatsAnIDE\Ex55__WhatsAnIDE\obj\Debug\Ex55__WhatsAnIDE.Form1.resources
+H:\CS1\Ex55__WhatsAnIDE\Ex55__WhatsAnIDE\Ex55__WhatsAnIDE\obj\Debug\Ex55__WhatsAnIDE.Properties.Resources.resources
+H:\CS1\Ex55__WhatsAnIDE\Ex55__WhatsAnIDE\Ex55__WhatsAnIDE\obj\Debug\Ex55__WhatsAnIDE.csproj.GenerateResource.Cache
+H:\CS1\Ex55__WhatsAnIDE\Ex55__WhatsAnIDE\Ex55__WhatsAnIDE\obj\Debug\Ex55__WhatsAnIDE.exe
+H:\CS1\Ex55__WhatsAnIDE\Ex55__WhatsAnIDE\Ex55__WhatsAnIDE\obj\Debug\Ex55__WhatsAnIDE.pdb

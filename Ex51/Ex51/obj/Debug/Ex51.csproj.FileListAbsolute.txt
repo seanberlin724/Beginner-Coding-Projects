@@ -1,0 +1,9 @@
+H:\CS1\Ex51\Ex51\Ex51\bin\Debug\Ex51.exe.config
+H:\CS1\Ex51\Ex51\Ex51\bin\Debug\Ex51.exe
+H:\CS1\Ex51\Ex51\Ex51\bin\Debug\Ex51.pdb
+H:\CS1\Ex51\Ex51\Ex51\obj\Debug\Ex51.csprojResolveAssemblyReference.cache
+H:\CS1\Ex51\Ex51\Ex51\obj\Debug\Ex51.Form1.resources
+H:\CS1\Ex51\Ex51\Ex51\obj\Debug\Ex51.Properties.Resources.resources
+H:\CS1\Ex51\Ex51\Ex51\obj\Debug\Ex51.csproj.GenerateResource.Cache
+H:\CS1\Ex51\Ex51\Ex51\obj\Debug\Ex51.exe
+H:\CS1\Ex51\Ex51\Ex51\obj\Debug\Ex51.pdb
