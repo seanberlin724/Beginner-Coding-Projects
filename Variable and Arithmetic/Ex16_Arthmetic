@@ -1,0 +1,36 @@
+/******************Block Comment***********************
+* Sean Berlin 
+* Write a program that declares two integers and initializes them to 199 and 76. 
+* Display the sum, difference, product, average, square of each and remainder of the values. 
+* Rerun with different values.
+* The output should look nice. 
+* *****************************
+ */
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace EX16_Arithmetic
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {  
+            Console.Title = "Two Integer Initialization";
+            int firstNumber = 199;
+            int secondNumber = 76;
+            int sum = firstNumber + secondNumber;
+            int difference = firstNumber - secondNumber;
+            int product = firstNumber * secondNumber;
+            int avergae = (firstNumber + secondNumber) / 2;
+            int squareOfFirstNumber = firstNumber * firstNumber;
+            int squareOfSecoundNumber = secondNumber * secondNumber;
+            int remainder = firstNumber % secondNumber;
+            Console.WriteLine("The sum of the two numbers {0:f2} and {1:f2} is {2:f2}. \nThe difference is {3:f2}. \nThe product is {4:f2}. \nThe average is {5:f2}. \nThe square of the first number is {6:f2}. \nThe square of the second number is {7:f2}. \nThe remainder is {8:f2}.", firstNumber, secondNumber, sum, difference, product, avergae, squareOfFirstNumber, squareOfSecoundNumber, remainder);
+            Console.ReadLine();
+        }
+    }
+}
