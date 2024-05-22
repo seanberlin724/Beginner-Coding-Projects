@@ -1,0 +1,9 @@
+H:\CS2\Arrays 3\Arrays 3\Arrays 3\bin\Debug\Arrays 3.exe.config
+H:\CS2\Arrays 3\Arrays 3\Arrays 3\obj\Debug\Arrays 3.csprojResolveAssemblyReference.cache
+H:\CS2\Arrays 3\Arrays 3\Arrays 3\obj\Debug\Arrays_3.Form1.resources
+H:\CS2\Arrays 3\Arrays 3\Arrays 3\obj\Debug\Arrays_3.Properties.Resources.resources
+H:\CS2\Arrays 3\Arrays 3\Arrays 3\obj\Debug\Arrays 3.csproj.GenerateResource.Cache
+H:\CS2\Arrays 3\Arrays 3\Arrays 3\bin\Debug\Arrays 3.exe
+H:\CS2\Arrays 3\Arrays 3\Arrays 3\bin\Debug\Arrays 3.pdb
+H:\CS2\Arrays 3\Arrays 3\Arrays 3\obj\Debug\Arrays 3.exe
+H:\CS2\Arrays 3\Arrays 3\Arrays 3\obj\Debug\Arrays 3.pdb

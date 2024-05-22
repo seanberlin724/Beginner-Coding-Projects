@@ -1,0 +1,9 @@
+H:\CS2\Arrays 1\Arrays1\Arrays1\bin\Debug\Arrays1.exe.config
+H:\CS2\Arrays 1\Arrays1\Arrays1\bin\Debug\Arrays1.exe
+H:\CS2\Arrays 1\Arrays1\Arrays1\bin\Debug\Arrays1.pdb
+H:\CS2\Arrays 1\Arrays1\Arrays1\obj\Debug\Arrays1.csprojResolveAssemblyReference.cache
+H:\CS2\Arrays 1\Arrays1\Arrays1\obj\Debug\Arrays1.Form1.resources
+H:\CS2\Arrays 1\Arrays1\Arrays1\obj\Debug\Arrays1.Properties.Resources.resources
+H:\CS2\Arrays 1\Arrays1\Arrays1\obj\Debug\Arrays1.csproj.GenerateResource.Cache
+H:\CS2\Arrays 1\Arrays1\Arrays1\obj\Debug\Arrays1.exe
+H:\CS2\Arrays 1\Arrays1\Arrays1\obj\Debug\Arrays1.pdb
