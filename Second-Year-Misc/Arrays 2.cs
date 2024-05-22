@@ -1,26 +1,27 @@
 /******************Block Comment***********************
  * Sean Berlin
  * Create a console application that will collect 10 names
- * in an array(call it Name[]) and 10 test scores(call it TestScore[]).
+ * in an array (call it Name[]) and 10 test scores (call it TestScore[]).
  * After the names and scores are entered have the results be displayed 
  * one at a time with a final average of the test scores.
  * You should have a method that displays the arrays.
-Enter name 1: Joe
-Enter score 1: 86
-Enter name 2: Tom
-Enter score 2: 93
-and so on...
-
-Results:
-1. Joe 86
-2. Tom 93
-and so on…
-
-Average score for the class is 85.4%.
  * 
+ * Enter name 1: Joe
+ * Enter score 1: 86
+ * Enter name 2: Tom
+ * Enter score 2: 93
+ * and so on...
+ * 
+ * Results:
+ * 1. Joe 86
+ * 2. Tom 93
+ * and so on…
+ * 
+ * Average score for the class is 85.4%.
  * 
  * *****************************
  */
+
 
 using System;
 using System.Collections.Generic;
