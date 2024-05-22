@@ -1,0 +1,9 @@
+H:\CS1\Ex58_Tabs\Ex58_Tabs\Ex58_Tabs\bin\Debug\Ex58_Tabs.exe.config
+H:\CS1\Ex58_Tabs\Ex58_Tabs\Ex58_Tabs\bin\Debug\Ex58_Tabs.exe
+H:\CS1\Ex58_Tabs\Ex58_Tabs\Ex58_Tabs\bin\Debug\Ex58_Tabs.pdb
+H:\CS1\Ex58_Tabs\Ex58_Tabs\Ex58_Tabs\obj\Debug\Ex58_Tabs.csprojResolveAssemblyReference.cache
+H:\CS1\Ex58_Tabs\Ex58_Tabs\Ex58_Tabs\obj\Debug\Ex58_Tabs.Form1.resources
+H:\CS1\Ex58_Tabs\Ex58_Tabs\Ex58_Tabs\obj\Debug\Ex58_Tabs.Properties.Resources.resources
+H:\CS1\Ex58_Tabs\Ex58_Tabs\Ex58_Tabs\obj\Debug\Ex58_Tabs.csproj.GenerateResource.Cache
+H:\CS1\Ex58_Tabs\Ex58_Tabs\Ex58_Tabs\obj\Debug\Ex58_Tabs.exe
+H:\CS1\Ex58_Tabs\Ex58_Tabs\Ex58_Tabs\obj\Debug\Ex58_Tabs.pdb

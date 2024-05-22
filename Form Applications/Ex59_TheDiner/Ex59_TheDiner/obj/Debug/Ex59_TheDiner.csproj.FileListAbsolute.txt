@@ -1,0 +1,9 @@
+H:\CS1\Ex59_TheDiner\Ex59_TheDiner\Ex59_TheDiner\bin\Debug\Ex59_TheDiner.exe.config
+H:\CS1\Ex59_TheDiner\Ex59_TheDiner\Ex59_TheDiner\bin\Debug\Ex59_TheDiner.exe
+H:\CS1\Ex59_TheDiner\Ex59_TheDiner\Ex59_TheDiner\bin\Debug\Ex59_TheDiner.pdb
+H:\CS1\Ex59_TheDiner\Ex59_TheDiner\Ex59_TheDiner\obj\Debug\Ex59_TheDiner.csprojResolveAssemblyReference.cache
+H:\CS1\Ex59_TheDiner\Ex59_TheDiner\Ex59_TheDiner\obj\Debug\Ex59_TheDiner.Form1.resources
+H:\CS1\Ex59_TheDiner\Ex59_TheDiner\Ex59_TheDiner\obj\Debug\Ex59_TheDiner.Properties.Resources.resources
+H:\CS1\Ex59_TheDiner\Ex59_TheDiner\Ex59_TheDiner\obj\Debug\Ex59_TheDiner.csproj.GenerateResource.Cache
+H:\CS1\Ex59_TheDiner\Ex59_TheDiner\Ex59_TheDiner\obj\Debug\Ex59_TheDiner.exe
+H:\CS1\Ex59_TheDiner\Ex59_TheDiner\Ex59_TheDiner\obj\Debug\Ex59_TheDiner.pdb

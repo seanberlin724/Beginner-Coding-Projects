@@ -1,0 +1,9 @@
+H:\CS1\Ex61_ChangeMaking\Ex61_ChangeMaking\Ex61_ChangeMaking\bin\Debug\Ex61_ChangeMaking.exe.config
+H:\CS1\Ex61_ChangeMaking\Ex61_ChangeMaking\Ex61_ChangeMaking\bin\Debug\Ex61_ChangeMaking.exe
+H:\CS1\Ex61_ChangeMaking\Ex61_ChangeMaking\Ex61_ChangeMaking\bin\Debug\Ex61_ChangeMaking.pdb
+H:\CS1\Ex61_ChangeMaking\Ex61_ChangeMaking\Ex61_ChangeMaking\obj\Debug\Ex61_ChangeMaking.csprojResolveAssemblyReference.cache
+H:\CS1\Ex61_ChangeMaking\Ex61_ChangeMaking\Ex61_ChangeMaking\obj\Debug\Ex61_ChangeMaking.Form1.resources
+H:\CS1\Ex61_ChangeMaking\Ex61_ChangeMaking\Ex61_ChangeMaking\obj\Debug\Ex61_ChangeMaking.Properties.Resources.resources
+H:\CS1\Ex61_ChangeMaking\Ex61_ChangeMaking\Ex61_ChangeMaking\obj\Debug\Ex61_ChangeMaking.csproj.GenerateResource.Cache
+H:\CS1\Ex61_ChangeMaking\Ex61_ChangeMaking\Ex61_ChangeMaking\obj\Debug\Ex61_ChangeMaking.exe
+H:\CS1\Ex61_ChangeMaking\Ex61_ChangeMaking\Ex61_ChangeMaking\obj\Debug\Ex61_ChangeMaking.pdb

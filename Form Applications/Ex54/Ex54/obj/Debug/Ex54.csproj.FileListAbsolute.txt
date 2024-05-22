@@ -1,0 +1,9 @@
+H:\CS1\Ex54\Ex54\Ex54\bin\Debug\Ex54.exe.config
+H:\CS1\Ex54\Ex54\Ex54\bin\Debug\Ex54.exe
+H:\CS1\Ex54\Ex54\Ex54\bin\Debug\Ex54.pdb
+H:\CS1\Ex54\Ex54\Ex54\obj\Debug\Ex54.csprojResolveAssemblyReference.cache
+H:\CS1\Ex54\Ex54\Ex54\obj\Debug\Ex54.Form1.resources
+H:\CS1\Ex54\Ex54\Ex54\obj\Debug\Ex54.Properties.Resources.resources
+H:\CS1\Ex54\Ex54\Ex54\obj\Debug\Ex54.csproj.GenerateResource.Cache
+H:\CS1\Ex54\Ex54\Ex54\obj\Debug\Ex54.exe
+H:\CS1\Ex54\Ex54\Ex54\obj\Debug\Ex54.pdb

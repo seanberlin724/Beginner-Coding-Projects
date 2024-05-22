@@ -1,0 +1,9 @@
+H:\CS1\Ex52\Ex52\Ex52\bin\Debug\Ex52.exe.config
+H:\CS1\Ex52\Ex52\Ex52\bin\Debug\Ex52.exe
+H:\CS1\Ex52\Ex52\Ex52\bin\Debug\Ex52.pdb
+H:\CS1\Ex52\Ex52\Ex52\obj\Debug\Ex52.csprojResolveAssemblyReference.cache
+H:\CS1\Ex52\Ex52\Ex52\obj\Debug\Ex52.Ex52.resources
+H:\CS1\Ex52\Ex52\Ex52\obj\Debug\Ex52.Properties.Resources.resources
+H:\CS1\Ex52\Ex52\Ex52\obj\Debug\Ex52.csproj.GenerateResource.Cache
+H:\CS1\Ex52\Ex52\Ex52\obj\Debug\Ex52.exe
+H:\CS1\Ex52\Ex52\Ex52\obj\Debug\Ex52.pdb

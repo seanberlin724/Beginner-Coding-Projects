@@ -1,0 +1,9 @@
+H:\CS1\Ex63_FlipBook\Ex63_FlipBook\Ex63_FlipBook\bin\Debug\Ex63_FlipBook.exe.config
+H:\CS1\Ex63_FlipBook\Ex63_FlipBook\Ex63_FlipBook\bin\Debug\Ex63_FlipBook.exe
+H:\CS1\Ex63_FlipBook\Ex63_FlipBook\Ex63_FlipBook\bin\Debug\Ex63_FlipBook.pdb
+H:\CS1\Ex63_FlipBook\Ex63_FlipBook\Ex63_FlipBook\obj\Debug\Ex63_FlipBook.csprojResolveAssemblyReference.cache
+H:\CS1\Ex63_FlipBook\Ex63_FlipBook\Ex63_FlipBook\obj\Debug\Ex63_FlipBook.Form1.resources
+H:\CS1\Ex63_FlipBook\Ex63_FlipBook\Ex63_FlipBook\obj\Debug\Ex63_FlipBook.Properties.Resources.resources
+H:\CS1\Ex63_FlipBook\Ex63_FlipBook\Ex63_FlipBook\obj\Debug\Ex63_FlipBook.csproj.GenerateResource.Cache
+H:\CS1\Ex63_FlipBook\Ex63_FlipBook\Ex63_FlipBook\obj\Debug\Ex63_FlipBook.exe
+H:\CS1\Ex63_FlipBook\Ex63_FlipBook\Ex63_FlipBook\obj\Debug\Ex63_FlipBook.pdb

@@ -1,0 +1,9 @@
+H:\CS1\Ex45_Calculator\Ex45_Calculator\Ex45_Calculator\bin\Debug\Ex45_Calculator.exe.config
+H:\CS1\Ex45_Calculator\Ex45_Calculator\Ex45_Calculator\bin\Debug\Ex45_Calculator.exe
+H:\CS1\Ex45_Calculator\Ex45_Calculator\Ex45_Calculator\bin\Debug\Ex45_Calculator.pdb
+H:\CS1\Ex45_Calculator\Ex45_Calculator\Ex45_Calculator\obj\Debug\Ex45_Calculator.csprojResolveAssemblyReference.cache
+H:\CS1\Ex45_Calculator\Ex45_Calculator\Ex45_Calculator\obj\Debug\Ex45_Calculator.Form1.resources
+H:\CS1\Ex45_Calculator\Ex45_Calculator\Ex45_Calculator\obj\Debug\Ex45_Calculator.Properties.Resources.resources
+H:\CS1\Ex45_Calculator\Ex45_Calculator\Ex45_Calculator\obj\Debug\Ex45_Calculator.csproj.GenerateResource.Cache
+H:\CS1\Ex45_Calculator\Ex45_Calculator\Ex45_Calculator\obj\Debug\Ex45_Calculator.exe
+H:\CS1\Ex45_Calculator\Ex45_Calculator\Ex45_Calculator\obj\Debug\Ex45_Calculator.pdb

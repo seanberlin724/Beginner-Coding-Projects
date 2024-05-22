@@ -1,0 +1,9 @@
+H:\CS1\Ex48_YourComments\Ex48_YourComments\Ex48_YourComments\bin\Debug\Ex48_YourComments.exe.config
+H:\CS1\Ex48_YourComments\Ex48_YourComments\Ex48_YourComments\bin\Debug\Ex48_YourComments.exe
+H:\CS1\Ex48_YourComments\Ex48_YourComments\Ex48_YourComments\bin\Debug\Ex48_YourComments.pdb
+H:\CS1\Ex48_YourComments\Ex48_YourComments\Ex48_YourComments\obj\Debug\Ex48_YourComments.csprojResolveAssemblyReference.cache
+H:\CS1\Ex48_YourComments\Ex48_YourComments\Ex48_YourComments\obj\Debug\Ex48_YourComments.Form1.resources
+H:\CS1\Ex48_YourComments\Ex48_YourComments\Ex48_YourComments\obj\Debug\Ex48_YourComments.Properties.Resources.resources
+H:\CS1\Ex48_YourComments\Ex48_YourComments\Ex48_YourComments\obj\Debug\Ex48_YourComments.csproj.GenerateResource.Cache
+H:\CS1\Ex48_YourComments\Ex48_YourComments\Ex48_YourComments\obj\Debug\Ex48_YourComments.exe
+H:\CS1\Ex48_YourComments\Ex48_YourComments\Ex48_YourComments\obj\Debug\Ex48_YourComments.pdb

@@ -1,0 +1,9 @@
+H:\CS1\Ex62_DiceDisplay\Ex62_DiceDisplay\Ex62_DiceDisplay\bin\Debug\Ex62_DiceDisplay.exe.config
+H:\CS1\Ex62_DiceDisplay\Ex62_DiceDisplay\Ex62_DiceDisplay\bin\Debug\Ex62_DiceDisplay.exe
+H:\CS1\Ex62_DiceDisplay\Ex62_DiceDisplay\Ex62_DiceDisplay\bin\Debug\Ex62_DiceDisplay.pdb
+H:\CS1\Ex62_DiceDisplay\Ex62_DiceDisplay\Ex62_DiceDisplay\obj\Debug\Ex62_DiceDisplay.csprojResolveAssemblyReference.cache
+H:\CS1\Ex62_DiceDisplay\Ex62_DiceDisplay\Ex62_DiceDisplay\obj\Debug\Ex62_DiceDisplay.Form1.resources
+H:\CS1\Ex62_DiceDisplay\Ex62_DiceDisplay\Ex62_DiceDisplay\obj\Debug\Ex62_DiceDisplay.Properties.Resources.resources
+H:\CS1\Ex62_DiceDisplay\Ex62_DiceDisplay\Ex62_DiceDisplay\obj\Debug\Ex62_DiceDisplay.csproj.GenerateResource.Cache
+H:\CS1\Ex62_DiceDisplay\Ex62_DiceDisplay\Ex62_DiceDisplay\obj\Debug\Ex62_DiceDisplay.exe
+H:\CS1\Ex62_DiceDisplay\Ex62_DiceDisplay\Ex62_DiceDisplay\obj\Debug\Ex62_DiceDisplay.pdb
